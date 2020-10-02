@@ -1,4 +1,5 @@
 # CGNAT-Mikrotik
+![image](https://user-images.githubusercontent.com/2658126/94922899-60754800-0491-11eb-8763-573a408fd630.png)
 <h2>Gerador de Configuração Para CGNAT Mikrotik</h2>
 
 Scritp escrito em python, responssavel por gerar as configurações necessarias para fazer CGNAT em routers Mikrotik.
