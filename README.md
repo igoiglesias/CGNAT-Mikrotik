@@ -1,9 +1,9 @@
 # CGNAT-Mikrotik
 <h2>Gerador de Configuração Para CGNAT Mikrotik</h2>
 
-Scritp escrito em python que dera as configurações necessarias para fazer CGNAT em routers Mikrotik.
+Scritp escrito em python, responssavel por gerar as configurações necessarias para fazer CGNAT em routers Mikrotik.
 
-<h3>Como Funciona</h3>
+<h3>Como Funciona?</h3>
 
 <p>Execute o script</p>
 
