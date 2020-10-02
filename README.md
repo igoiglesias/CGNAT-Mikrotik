@@ -19,4 +19,4 @@ Scritp escrito em python, responssavel por gerar as configurações necessarias 
 ![image](https://user-images.githubusercontent.com/2658126/94922520-c1e8e700-0490-11eb-8956-c6719b7d0467.png)
  
 </br></br><h3>Créditos</h3>
-<a href="https://under-linux.org/showthread.php?t=189391">Andriopj</>
+<a href="https://under-linux.org/showthread.php?t=189391">Andriopj<a/>
